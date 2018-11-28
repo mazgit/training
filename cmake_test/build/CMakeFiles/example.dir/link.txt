@@ -1,0 +1,1 @@
+/usr/bin/cc   -g  -fsigned-char -Wall -Werror   CMakeFiles/example.dir/src/example.c.o CMakeFiles/example.dir/src/blah1.c.o CMakeFiles/example.dir/src/blah2.c.o  -o bin/example  -L/sw/agarcha/home/tmp/cmake_test/build/arch 

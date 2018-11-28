@@ -1,0 +1,27 @@
+#include <stdlib.h>
+#include <stdio.h>
+
+typedef struct {
+  
+} LRUCache;
+
+
+LRUCache* lRUCacheCreate(int capacity)
+{
+  
+  
+}
+
+void lRUCachePut(LRUCache* obj, int key, int value) 
+{
+}
+
+
+int lRUCacheGet(LRUCache* obj, int key)
+{
+}
+
+
+int main()
+{
+}

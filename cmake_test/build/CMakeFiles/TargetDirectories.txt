@@ -1,0 +1,8 @@
+/sw/agarcha/home/tmp/cmake_test/build/CMakeFiles/edit_cache.dir
+/sw/agarcha/home/tmp/cmake_test/build/CMakeFiles/rebuild_cache.dir
+/sw/agarcha/home/tmp/cmake_test/build/CMakeFiles/example_post_process_src_blah2_c.dir
+/sw/agarcha/home/tmp/cmake_test/build/CMakeFiles/example_post_process_src_blah1_c.dir
+/sw/agarcha/home/tmp/cmake_test/build/CMakeFiles/example_run_all_commands.dir
+/sw/agarcha/home/tmp/cmake_test/build/CMakeFiles/example_post_process_src_example_c.dir
+/sw/agarcha/home/tmp/cmake_test/build/CMakeFiles/testing.dir
+/sw/agarcha/home/tmp/cmake_test/build/CMakeFiles/example.dir
